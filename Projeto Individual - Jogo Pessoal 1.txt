@@ -1,0 +1,4 @@
+Esse jogo foi desenvolvido por mim, como parte prática de um trabalho acadêmico, para a disciplina de 
+Computação Gráfica, no curso de Ciência da Computação
+
+Intitulado Universitário Espacial
