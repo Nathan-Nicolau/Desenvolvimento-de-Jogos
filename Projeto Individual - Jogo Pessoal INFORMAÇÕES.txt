@@ -1,2 +1,2 @@
 Os arquivos compactados são pastas que compõem o diretório raiz do jogo, junto ao executável, 
-e deevem estar juntas para a execução do jogo.
+e devem estar juntas para a execução do jogo.
